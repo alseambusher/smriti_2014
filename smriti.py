@@ -28,5 +28,6 @@ for row in data:
         print("\n\n")
         print("# " + current_user)
     print("__" + row[1] + "__")
+    print("\n")
     print(row[2].decode("utf-8"))
     print("\n")
